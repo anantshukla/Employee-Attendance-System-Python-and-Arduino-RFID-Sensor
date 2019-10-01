@@ -3,7 +3,8 @@ This project implements an employee attendance system using an RFID sensor which
 On the hardware side here, we use an Arduino Uno, MFRC522 RFID Sensor and an LCD Display.
 
 The MFRC522 libraries for the arduino can be found on Miguel Balboa's repository and and he holds the license rights, Link to which are: https://github.com/miguelbalboa/rfid. The MFRC522.cpp and MFRC522.h files have anyway been included with the project. For installation of these libraries follow Miguel's instructions.
-Python has been used for interfacing between the Arduino and the MySQL database. Install the respective Python libraries before use.
+
+Python is being used interfacing between the Arduino and the system connected/hosting to the MySQL database. Install the respective Python libraries used in the program before use.
 
 A MySQL database as "employee_attendance.sql". Import this to your database.
 
