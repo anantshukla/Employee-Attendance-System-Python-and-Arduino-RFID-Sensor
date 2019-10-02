@@ -12,5 +12,6 @@ A Python file input.py to input new user data to the Database. This can be done 
 
 For quick referencing for every employee with certain "emp_id", say n, a separate table named as "n_attn_mon" is created which keeps a track of the months the employee was present. Next say employee was present at least on one day in Dec 2016, then this data will be stored in "n_attn_mon" as "122016". Also a table for that month, here Dec, will be created as "n_122016" and this table will keep the day to day attendance track for the employee. This makes future referencing easier.
 
-
 In case of any issues, you can ping me at anantshukla1234@gmail.com or anantshuklauav@gmail.com.
+
+In my next release, I'll try to include an employee management web portal, where a user can create their profile, thus eliminating the use for the python script.
