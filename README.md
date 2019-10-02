@@ -14,6 +14,6 @@ For quick referencing for every employee with certain "emp_id", say n, a separat
 
 The code is easy to understand and you are free to use the code as it is or add additional features as per your requirement (like open a door,etc). Just follow the licensing norms.
 
-In case of any issues, you can ping me at anantshukla1234@gmail.com or anantshuklauav@gmail.com.
+In case of any issues, you can ping me at anantshukla1234@gmail.com or anantshuklauav@gmail.com
 
 In my next release, I'll try to include an employee management web portal, where a user can create their profile, thus eliminating the use for the python script.
